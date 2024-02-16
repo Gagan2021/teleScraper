@@ -1,10 +1,7 @@
-#include<iostream.h>
-using namespace std;
+// Your first C++ program
+#include <iostream>
 
-
-int main(){
-
-
-  cout<<"Hello world"<<endl;
+int main() {
+  std::cout << "Hello, World!" << std::endl;
   return 0;
 }
